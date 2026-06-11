@@ -3,6 +3,7 @@ This is a template for web projects using
 - React (^19.2.6)
 - TailwindCSS (^4.3.0)
 - Vite (^8.0.12)
+- ShadCn (^4.11.0)
 
 This was initially set up on WSL Ubuntu 24.04.3
 
