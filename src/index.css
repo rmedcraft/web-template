@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* this line is only needed on WSL because it cant auto-detect the source directory (for some reason) */
+@source "../src/*.{js,ts,jsx,tsx}";
