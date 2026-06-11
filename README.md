@@ -1,11 +1,16 @@
 This is a template for web projects using
 - Typescript (~6.0.2)
 - React (^19.2.6)
+- React Router (^7.17.0, Declarative Mode)
 - TailwindCSS (^4.3.0)
 - Vite (^8.0.12)
 - ShadCn (^4.11.0)
 
-This was initially set up on WSL Ubuntu 24.04.3
+This was initially set up on WSL Ubuntu 24.04.3 and has been tested on
+- WSL Ubuntu 24.04.3
+- WSL Ubuntu 24.04.4
+- Windows 10
+- Windows 11
 
 # Setup
 
@@ -30,7 +35,6 @@ Run:
 ```bash
 cd <my-repo>
 npm install
-npm run build
 npm run dev
 ```
 then start coding
