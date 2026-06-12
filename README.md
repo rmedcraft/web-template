@@ -38,3 +38,10 @@ npm install
 npm run dev
 ```
 then start coding
+
+# Updating Shadcn Theme
+
+1. Create a new theme at https://ui.shadcn.com/themes
+2. Click "Get Code" at the bottom left
+3. Select "Existing Project" and copy the command for the full preset
+4. Run the command in your project directory
